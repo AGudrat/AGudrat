@@ -10,6 +10,5 @@ A Full Stack Developer From Azerbaijan
 
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AGudrat&theme=dark&hide_border=false)</br>
-[![](https://visitcount.itsvg.in/api?id=AGudrat&icon=0&color=3)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=AGudrat&icon=0&color=3%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
