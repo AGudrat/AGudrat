@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Full Stack Developer From Azerbaijan
+A Software Developer From Azerbaijan
 
 
 ## 🌐 Socials:
