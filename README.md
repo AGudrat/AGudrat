@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Software Developer From Azerbaijan
+A Software Engineer From Azerbaijan
 
 
 ## 🌐 Socials:
